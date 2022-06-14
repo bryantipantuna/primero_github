@@ -44,6 +44,6 @@
    <h1>Menu Principal</h1>
   <center><img src="dinosaurio.jpg"></center>
    <center><a class="menu" href="lista_estudiantes.php">Estudiantes</a></center>
-   <center><a class="menu" href="lista_usuarios.php">Usuarios</a></center>
+   <center><a class="menu" href="lista_deusuarios.php">Usuarios</a></center>
 </body>
 </html>
